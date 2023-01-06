@@ -1,2 +1,3 @@
 # Shadowsocks-Plugin
-Shadowsocks Plugin By SL
+Shadowsocks Plugin
+# By TARAP KUHING
